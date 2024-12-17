@@ -25,6 +25,7 @@
             , <&gpio0 11 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)> // ROW4
             , <&gpio0 12 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)> // ROW0
             , <&gpio0 13 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)> // ROW1
+            ;
 	};
 
 	default_transform: keymap_transform_0 {
