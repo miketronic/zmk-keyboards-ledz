@@ -6,3 +6,4 @@ url: https://github.com/miketronic/ledz
 requires: [waveshare_rp2040_zero]
 features:
   - keys
+  - underglow
